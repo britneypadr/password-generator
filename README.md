@@ -27,4 +27,4 @@ This project is a Password Generator web application. It allows users to generat
 2. **MDN Web Docs**: JavaScript Guide
 3. **CSS-Tricks**: A Complete Guide to Flexbox
 4. **Stack Overflow**: Various threads on JavaScript password generation and prompt handling.
-5. **Mozilla Developer Network (MDN)**: Using the Web Storage API for storing user preferences (future enhancements)# password-generator
+5. **Mozilla Developer Network (MDN)**: Using the Web Storage API for storing user preferences (future enhancements)
